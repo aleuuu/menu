@@ -14,7 +14,6 @@ let rolls = [
         salat: '',
         perec: '',
         count: '',
-        count: '',
     },
     { 
         title:'Цезарь', 
@@ -29,7 +28,6 @@ let rolls = [
         salat: 'есть',
         perec: '',
         count: '',
-        count: '',
     },
     { 
         title:'Цезарь темпура', 
@@ -43,7 +41,6 @@ let rolls = [
         avocado: '',
         salat: '',
         perec: '',
-        count: '',
         count: '',
     },
 ]
