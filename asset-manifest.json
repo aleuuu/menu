@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sushi-menu/static/css/main.02aa44fa.css",
-    "main.js": "/sushi-menu/static/js/main.ba1324f3.js",
-    "static/js/787.de2e223a.chunk.js": "/sushi-menu/static/js/787.de2e223a.chunk.js",
-    "index.html": "/sushi-menu/index.html",
-    "main.02aa44fa.css.map": "/sushi-menu/static/css/main.02aa44fa.css.map",
-    "main.ba1324f3.js.map": "/sushi-menu/static/js/main.ba1324f3.js.map",
-    "787.de2e223a.chunk.js.map": "/sushi-menu/static/js/787.de2e223a.chunk.js.map"
+    "main.css": "/menu/static/css/main.02aa44fa.css",
+    "main.js": "/menu/static/js/main.e12e9b20.js",
+    "static/js/787.de2e223a.chunk.js": "/menu/static/js/787.de2e223a.chunk.js",
+    "index.html": "/menu/index.html",
+    "main.02aa44fa.css.map": "/menu/static/css/main.02aa44fa.css.map",
+    "main.e12e9b20.js.map": "/menu/static/js/main.e12e9b20.js.map",
+    "787.de2e223a.chunk.js.map": "/menu/static/js/787.de2e223a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02aa44fa.css",
-    "static/js/main.ba1324f3.js"
+    "static/js/main.e12e9b20.js"
   ]
 }
